@@ -3,24 +3,18 @@
   <h1>💫 Sonar</h1>
   Lightweight and easy-to-use anti-bot plugin for your Minecraft server.
   <br>
-  Sonar keeps your server safe from common and even sophisticated bot attacks.
+ Crime secure FrameMC and McubeMC servers for your security.
   <br><br>
 
-  <!-- Badges & icons -->
+  <!-- Badges & icons 
   [![](https://github.com/jonesdevelopment/sonar/actions/workflows/gradle.yml/badge.svg)](https://github.com/jonesdevelopment/sonar/actions/workflows/gradle.yml)
   [![](https://www.codefactor.io/repository/github/jonesdevelopment/sonar/badge/main)](https://www.codefactor.io/repository/github/jonesdevelopment/sonar/overview/main)
   [![](https://img.shields.io/github/v/release/jonesdevelopment/sonar)](https://github.com/jonesdevelopment/sonar/releases)
   [![](https://img.shields.io/github/issues/jonesdevelopment/sonar)](https://github.com/jonesdevelopment/sonar/issues)
   [![](https://img.shields.io/discord/923308209769426994.svg?logo=discord)](https://sonar.top/discord)
   [![](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-  <br>
+  <br>-->
   <!-- Quick navigation -->
-  [Releases](https://github.com/jonesdevelopment/sonar/releases)
-  |
-  [Issues](https://github.com/jonesdevelopment/sonar/issues)
-  |
-  [Pull Requests](https://github.com/jonesdevelopment/sonar/pulls)
-  |
   [Discord](https://sonar.top/discord)
   |
   [License](https://github.com/jonesdevelopment/sonar/?tab=readme-ov-file#license)
