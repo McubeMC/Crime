@@ -22,11 +22,6 @@
   [Documentation](https://docs.jonesdev.xyz/)
 </div>
 
-> ### Notice about Sonar 3.0
-> 
-> If you want more robust protection, better performance, and awesome new features, check out Sonar 3.0 at https://sonar.top/!
-> You can read more about what sets Sonar 3.0 apart from Sonar 2.0 [here](<https://sonar.top/docs/features>).
-
 ## Design and Goal
 * Effective, lightweight, and easy-to-use
 * No unnecessary features and clean code
@@ -48,15 +43,6 @@ Sonar also protects against spambot attacks since it queues the incoming connect
 ### False positives
 Sonar is unlikely to ever falsely prevent a player from joining the server since Minecraft uses the TCP protocol, which means that packets are always sent in the correct order. Therefore, lag or ping should not affect the bot check.
 If you or one of your players experiences a false positive, make sure to report it by opening a [GitHub issue](https://github.com/jonesdevelopment/sonar/issues/new/choose) or a ticket on the [Discord server](https://sonar.top/discord/).
-
-## Sponsors
-If you are interested in sponsoring this project, please contact me via [Discord](https://sonar.top/discord/).
-
-### Past Sponsors
-
-<a href="https://github.com/Chumb3x"><img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/79834154?v=4&h=50&w=50&fit=cover&mask=circle&maxage=7d" alt="logo" align="center"></a>
-<a href="https://github.com/Hydoxl"><img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/107579333?v=4&h=50&w=50&fit=cover&mask=circle&maxage=7d" alt="logo" align="center"></a>
-<a href="https://github.com/ItzErpandX"><img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/84748484?v=4?s=400?v=4&h=50&w=50&fit=cover&mask=circle&maxage=7d" alt="logo" align="center"></a>
 
 ## Building
 If you want to build your own version of Sonar, please take a look at the [Sonar building documentation](https://docs.jonesdev.xyz/development/building).
