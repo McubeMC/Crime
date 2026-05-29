@@ -1,11 +1,12 @@
 {
-  "id": "sonar",
-  "name": "Sonar",
+  "id": "Crime",
+  "name": "Crime",
   "version": "$version",
   "description": "$description",
   "url": "$url",
   "authors": [
-    "Jones Development",
+    "Mcube Development",
+    "Frame Development",
     "Sonar Contributors"
   ],
   "dependencies": [
